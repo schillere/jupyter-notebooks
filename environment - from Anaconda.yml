@@ -3,13 +3,13 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - argon2-cffi
+  - argon2-cffi=20.1.0=py37he774522_1
   - attrs=19.3.0=py_0
   - backcall=0.2.0=py_0
   - bleach=3.1.5=py_0
   - ca-certificates=2020.6.24=0
   - certifi=2020.6.20=py37_0
-  - cffi
+  - cffi=1.14.0=py37h7a1dbc1_0
   - colorama=0.4.3=py_0
   - console_shortcut=0.1.1=4
   - decorator=4.4.2=py_0
@@ -30,14 +30,14 @@ dependencies:
   - jupyter_highlight_selected_word=0.2.0=py37_1000
   - jupyter_latex_envs=1.4.4=py37_1000
   - jupyter_nbextensions_configurator=0.4.1=py37hc8dfbb8_1
-  - libiconv
-  - libsodium
-  - libxml2
+  - libiconv=1.15=hfa6e2cd_1006
+  - libsodium=1.0.18=h62dcd97_0
+  - libxml2=2.9.10=h5d81f1c_2
   - libxslt=1.1.33=h579f668_1
   - lxml=4.5.2=py37h8ba8a40_0
   - m2w64-gcc-libgfortran=5.3.0=6
-  - m2w64-gcc-libs
-  - m2w64-gcc-libs-core
+  - m2w64-gcc-libs=5.3.0=7
+  - m2w64-gcc-libs-core=5.3.0=7
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markupsafe=1.1.1=py37hfa6e2cd_1
@@ -59,7 +59,7 @@ dependencies:
   - pycparser=2.20=py_2
   - pygments=2.6.1=py_0
   - pyparsing=2.4.7=py_0
-  - pyrsistent
+  - pyrsistent=0.16.0=py37he774522_0
   - python=3.7.7=h81c818b_4
   - python-dateutil=2.8.1=py_0
   - python_abi=3.7=1_cp37m
@@ -81,7 +81,7 @@ dependencies:
   - wcwidth=0.2.5=py_0
   - webencodings=0.5.1=py37_1
   - wheel=0.34.2=py37_0
-  - wincertstore
+  - wincertstore=0.2=py37_0
   - winpty=0.4.3=4
   - yaml=0.2.5=he774522_0
   - zeromq=4.3.2=ha925a31_2
