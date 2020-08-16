@@ -1,79 +1,11 @@
 name: JupyterAddons
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - argon2-cffi
-  - attrs
-  - backcall
-  - bleach
-  - ca-certificates
-  - certifi
-  - cffi
-  - colorama
-  - console_shortcut
-  - decorator
-  - defusedxml
-  - entrypoints
-  - importlib-metadata
-  - importlib_metadata
-  - ipykernel
-  - ipython
-  - ipython_genutils
-  - jedi
-  - jinja2
-  - jsonschema
-  - jupyter_client
-  - jupyter_contrib_core
-  - jupyter_contrib_nbextensions
-  - jupyter_core
-  - jupyter_highlight_selected_word
-  - jupyter_latex_envs=1.4.4=py37_1000
-  - jupyter_nbextensions_configurator=0.4.1=py37hc8dfbb8_1
-  - libiconv
-  - libsodium
-  - libxml2
-  - libxslt
-  - lxml
-  - markupsafe
-  - mistune
-  - mpmath
-  - nbconvert
-  - nbformat
+  - python=3.7
   - notebook
-  - openssl
-  - packaging
-  - pandoc
-  - pandocfilters
-  - parso
-  - pickleshare
-  - pip
-  - prometheus_client
-  - prompt-toolkit
-  - pycparser
-  - pygments
-  - pyparsing
-  - pyrsistent
-  - python=3.7.7
-  - python-dateutil
-  - python_abi
-  - pyyaml
-  - pyzmq
-  - send2trash
-  - setuptools
-  - six
-  - sqlite
+  - console_shortcut
+  - jupyter_contrib_nbextensions
   - sympy
-  - terminado
-  - testpath
-  - tornado
-  - traitlets
-  - wcwidth
-  - webencodings
-  - wheel
-  - yaml
-  - zeromq
-  - zipp
-  - zlib
 prefix: C:\ProgramData\Anaconda3\envs\JupyterAddons
 
